@@ -1,5 +1,9 @@
 package com.yrdomain.ch11;
 
+import java.util.Comparator;
+
+import com.yrdomain.ch11.CompareExample.Student;
+
 public class StudentComparator implements Comparator<Student> {
 	@Override
 	public int compare(Student a, Student b) {
