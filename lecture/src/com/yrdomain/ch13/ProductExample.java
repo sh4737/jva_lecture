@@ -18,3 +18,5 @@ public class ProductExample {
 	}
 	
 }
+
+class Car {}

@@ -11,6 +11,8 @@ public class Person {
 		this.s = s;
 	}
 
+	
+	//String 리턴 함수가 없어서 주소값이 뜸
 }
 
 
